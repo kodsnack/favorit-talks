@@ -7,3 +7,5 @@ Contribute links to your favorite talks!
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [The Website Obesity Crisis](https://webdirections.org/blog/the-website-obesity-crisis/)
 * [Every Clojure Talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc)
+* [Inventing on principle](https://www.youtube.com/watch?v=8QiPFmIMxFc) - Bret Victor pratar om ett sätt att leva sitt liv och hur bra utvecklingsmiljöer kan vara.
+* [Bang Bang!! My Interpreter Shot Me Down!](https://www.youtube.com/watch?v=lEx5y9qBow8) 10 minuters blixtföreläsning av Julia Tufts om !! operatorn
