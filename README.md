@@ -15,4 +15,3 @@ Contribute links to your favorite talks!
 * [Discovering Python](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8)  
 * [Simple Made Easy](https://www.youtube.com/watch?v=SxdOUGdseq4)  
 * [Using Types Efficiently](https://www.youtube.com/watch?v=ojZbFIQSdl8)
-* 
