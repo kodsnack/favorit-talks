@@ -14,3 +14,4 @@ Contribute links to your favorite talks!
 * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
 * [Discovering Python](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8)  
 * [Simple Made Easy](https://www.youtube.com/watch?v=SxdOUGdseq4)  
+* [Using Types Efficiently](https://www.youtube.com/watch?v=ojZbFIQSdl8)
