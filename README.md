@@ -13,7 +13,6 @@ Contribute links to your favorite talks!
 * [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 * [Discovering Python](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8)
-* [Simple Made Easy](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [Using Types Efficiently](https://www.youtube.com/watch?v=ojZbFIQSdl8)
 * [Structure and Interpretation of Test Cases • Kevlin Henney • GOTO 2022](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
 * [Symbolic Assembly: Using Clojure to Meta-program Bytecode - Ramsey Nasser](https://www.youtube.com/watch?v=eDad1pvwX34)
