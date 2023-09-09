@@ -24,4 +24,5 @@ Contribute links to your favorite talks!
 * [The Language of the System - Rich Hickey](https://www.youtube.com/watch?v=ROor6_NGIWU)
 * ["Design, Composition, and Performance" - Rich Hickey](https://www.youtube.com/watch?v=QCwqnjxqfmY)
 * [Inspirerade mig att utforska mekaniska tangentbord och Colemak layout](https://youtu.be/2ODsBxJeorw)
+* [The Zen of programming](https://www.youtube.com/watch?v=syGnlE_oosM)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
